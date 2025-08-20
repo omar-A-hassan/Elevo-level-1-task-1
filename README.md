@@ -1,4 +1,4 @@
-# Elevo Level 1 - Machine Learning Portfolio
+# Machine Learning Portfolio
 
 This repository contains a comprehensive machine learning portfolio demonstrating proficiency across supervised learning, unsupervised learning, and advanced time series representation learning techniques.
 
