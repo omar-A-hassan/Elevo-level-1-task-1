@@ -4,3 +4,4 @@ Phase-3/Task-7/ts2vec/datasets/*[!.py]
 Phase-3/Task-7/ts2vec/training/*
 Phase-3/Task-7/ts2vec/scripts/_nohup
 Phase-3/Task-7/ts2vec/.rsync-filter
+__pycache__
